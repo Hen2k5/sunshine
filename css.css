@@ -1,0 +1,33 @@
+body{
+margin: 0;
+padding: 0;
+background-color: rgb(53, 50, 50);
+}
+
+   
+
+.sun{
+    width: 130px;
+    height: 130px;
+    margin-left: 700px;
+    margin-top: 550px;
+    background-color: orange;
+    border-radius: 50%;
+    z-index: -1;  
+    position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+}
+ .moon{
+    width: 80px;
+    height: 80px;
+    margin-left: 250px;
+    margin-top: 20px;
+ }
+ .mountain{
+    width: 1000px;
+    height: 500px;
+background-image: url('./img/mountain.png');
+background-repeat: no-repeat;
+margin-top:  350px;
+margin-left: 200px;
+
+}
